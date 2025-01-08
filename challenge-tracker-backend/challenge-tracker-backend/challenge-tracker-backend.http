@@ -1,0 +1,6 @@
+@challenge_tracker_backend_HostAddress = http://localhost:5111
+
+GET {{challenge_tracker_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
